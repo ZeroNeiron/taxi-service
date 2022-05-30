@@ -33,4 +33,4 @@ public class ConnectionUtil {
     private static final String PASSWORD = "YOUR_MySQL_PASSWORD";
 }
 ```
-5.Install and configure Apache Tomcat(or another servlet container). Use `/` as application context
+5.Install and configure Apache Tomcat(or another servlet container). Use `/` as application context path
